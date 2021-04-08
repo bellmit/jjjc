@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.taiji.system.api.factory.RemoteUserFallbackFactory,\
+  com.taiji.system.api.factory.RemoteLogFallbackFactory, \
+  com.taiji.system.api.factory.RemoteFileFallbackFactory
