@@ -1,0 +1,2 @@
+14:06:21.322 [reactor-http-nio-3] ERROR c.t.g.f.AuthFilter - [setUnauthorizedResponse,94] - [鉴权异常处理]请求路径:/system/user/getInfo
+14:33:02.355 [reactor-http-nio-5] ERROR c.t.g.h.GatewayExceptionHandler - [handle,56] - [网关异常处理]请求路径:/auth/login,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for taiji-auth"

@@ -1,0 +1,3 @@
+08:47:01.045 [reactor-http-nio-8] ERROR c.t.g.h.GatewayExceptionHandler - [handle,56] - [网关异常处理]请求路径:/schedule/job/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for taiji-job"
+13:38:43.909 [reactor-http-nio-5] ERROR c.t.g.h.GatewayExceptionHandler - [handle,56] - [网关异常处理]请求路径:/schedule/job/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for taiji-job"
+13:49:30.443 [reactor-http-nio-2] ERROR c.t.g.f.AuthFilter - [setUnauthorizedResponse,94] - [鉴权异常处理]请求路径:/system/config/configKey/sys.user.initPassword

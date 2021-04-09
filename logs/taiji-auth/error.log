@@ -1,0 +1,3 @@
+18:51:47.921 [http-nio-9200-exec-5] ERROR c.t.s.a.f.RemoteLogFallbackFactory - [create,24] - 日志服务调用失败:com.netflix.client.ClientException: Load balancer does not have available server for client: taiji-system
+18:51:55.465 [http-nio-9200-exec-1] ERROR c.t.s.a.f.RemoteUserFallbackFactory - [create,29] - 用户服务调用失败:com.netflix.client.ClientException: Load balancer does not have available server for client: taiji-system
+19:03:26.776 [http-nio-9200-exec-8] ERROR c.t.s.a.f.RemoteLogFallbackFactory - [create,24] - 日志服务调用失败:com.netflix.client.ClientException: Load balancer does not have available server for client: taiji-system

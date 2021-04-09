@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.taiji</groupId>
+        <artifactId>taiji-common</artifactId>
+        <version>2.5.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    
+    <artifactId>taiji-common-security</artifactId>
+
+    <description>
+        taiji-common-security安全模块
+    </description>
+
+    <dependencies>
+    
+        <!-- taiji Api System -->
+        <dependency>
+            <groupId>com.taiji</groupId>
+            <artifactId>taiji-api-system</artifactId>
+        </dependency>
+        
+        <!-- taiji Common Redis-->
+        <dependency>
+            <groupId>com.taiji</groupId>
+            <artifactId>taiji-common-redis</artifactId>
+        </dependency>
+        
+    </dependencies>
+
+</project>

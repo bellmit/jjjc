@@ -1,0 +1,411 @@
+08:47:37.524 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+08:47:39.002 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+08:47:39.053 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+08:47:39.099 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+08:47:39.150 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+08:47:42.546 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+08:47:42.546 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:47:42.548 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+08:47:42.759 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:47:43.269 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+08:47:43.293 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+08:47:43.293 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+08:47:43.304 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:47:44.536 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617670063273'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+08:47:44.536 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+08:47:44.537 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+08:47:44.542 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@4cadd4d4
+08:47:45.047 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:47:46.058 [main] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler taijiScheduler_$_XieWenHui1617670063273 shutting down.
+08:47:46.058 [main] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617670063273 paused.
+08:47:46.059 [main] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler taijiScheduler_$_XieWenHui1617670063273 shutdown complete.
+08:47:46.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+08:49:29.596 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+08:49:30.914 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+08:49:30.964 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+08:49:31.000 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+08:49:31.026 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+08:49:34.552 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+08:49:34.553 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:49:34.553 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+08:49:34.765 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:49:35.265 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+08:49:35.285 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+08:49:35.285 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+08:49:35.298 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:49:35.582 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+08:49:35.598 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617670175269'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+08:49:35.598 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+08:49:35.598 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+08:49:35.601 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@67a38
+08:49:38.061 [main] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler taijiScheduler_$_XieWenHui1617670175269 shutting down.
+08:49:38.062 [main] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617670175269 paused.
+08:49:38.063 [main] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler taijiScheduler_$_XieWenHui1617670175269 shutdown complete.
+08:49:38.064 [main] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+08:49:38.076 [main] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+08:49:38.079 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+08:51:41.044 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+08:51:42.286 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+08:51:42.333 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+08:51:42.372 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+08:51:42.402 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+08:51:45.910 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+08:51:45.911 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:51:45.911 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+08:51:46.131 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:51:46.628 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+08:51:46.646 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+08:51:46.646 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+08:51:46.658 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:51:46.944 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+08:51:46.959 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617670306631'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+08:51:46.960 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+08:51:46.960 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+08:51:46.962 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@644b68ad
+08:51:49.428 [main] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler taijiScheduler_$_XieWenHui1617670306631 shutting down.
+08:51:49.428 [main] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617670306631 paused.
+08:51:49.429 [main] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler taijiScheduler_$_XieWenHui1617670306631 shutdown complete.
+08:51:49.429 [main] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+08:51:49.437 [main] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+08:51:49.440 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+13:39:00.033 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+13:39:01.671 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+13:39:01.730 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+13:39:01.800 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+13:39:01.835 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+13:39:05.343 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+13:39:05.344 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+13:39:05.344 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+13:39:05.622 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+13:39:06.135 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+13:39:06.156 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+13:39:06.156 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+13:39:06.168 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+13:39:06.441 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+13:39:06.456 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617687546139'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+13:39:06.457 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+13:39:06.457 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+13:39:06.460 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@74e4be21
+13:39:07.592 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+13:39:09.010 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+13:39:09.011 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+13:39:09.013 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+13:39:09.450 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+13:39:09.516 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:39:09.521 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:39:12.200 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9203"]
+13:39:12.245 [main] INFO  c.a.n.client.naming - [addBeatInfo,81] - [BEAT] adding beat: BeatInfo{port=9203, ip='192.168.1.102', weight=1.0, serviceName='DEFAULT_GROUP@@taiji-job', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+13:39:12.247 [main] INFO  c.a.n.client.naming - [registerService,230] - [REGISTER-SERVICE] public registering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+13:39:12.251 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP taiji-job 192.168.1.102:9203 register finished
+13:39:13.219 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+13:39:13.232 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+13:39:13.253 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9203,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-job\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617687553252,\"checksum\":\"6520079c412785820188d5c23cd13b53\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"metadata\":{}}","lastRefTime":18480319121112} from /192.168.1.102
+13:39:13.292 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+13:39:13.312 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+13:39:13.383 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+13:39:13.611 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: exportUsingPOST_1
+13:39:13.613 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: getInfoUsingGET_1
+13:39:13.616 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: listUsingGET_1
+13:39:13.618 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+13:39:13.651 [main] INFO  c.t.j.TaiJiJobApplication - [logStarted,61] - Started TaiJiJobApplication in 15.42 seconds (JVM running for 17.692)
+13:39:13.660 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job+DEFAULT_GROUP
+13:39:13.662 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job, group=DEFAULT_GROUP, cnt=1
+13:39:13.663 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job.yml+DEFAULT_GROUP
+13:39:13.663 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job.yml, group=DEFAULT_GROUP, cnt=1
+13:39:13.665 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job-dev.yml+DEFAULT_GROUP
+13:39:13.665 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job-dev.yml, group=DEFAULT_GROUP, cnt=1
+13:39:14.647 [Quartz Scheduler [taijiScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler taijiScheduler_$_XieWenHui1617687546139 started.
+13:39:15.549 [RMI TCP Connection(3)-192.168.1.102] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+13:41:37.024 [task-1] INFO  c.n.c.ChainedDynamicProperty - [checkAndFlip,115] - Flipping property: taiji-system.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+13:41:37.044 [task-1] INFO  c.n.l.BaseLoadBalancer - [initWithConfig,197] - Client: taiji-system instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=taiji-system,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+13:41:37.050 [task-1] INFO  c.n.l.DynamicServerListLoadBalancer - [enableAndInitLearnNewServersFeature,222] - Using serverListUpdater PollingServerListUpdater
+13:41:37.059 [task-1] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-system -> [{"instanceId":"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system","ip":"192.168.1.102","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+13:41:37.061 [task-1] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-system -> [{"instanceId":"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system","ip":"192.168.1.102","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+13:41:37.075 [task-1] INFO  c.n.c.ChainedDynamicProperty - [checkAndFlip,115] - Flipping property: taiji-system.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+13:41:37.077 [task-1] INFO  c.n.l.DynamicServerListLoadBalancer - [restOfInit,150] - DynamicServerListLoadBalancer for client taiji-system initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=taiji-system,current list of Servers=[192.168.1.102:9201],Load balancer stats=Zone stats: {unknown=[Zone:unknown;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.1.102:9201;	Zone:UNKNOWN;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:com.alibaba.cloud.nacos.ribbon.NacosServerList@23756e60
+13:41:38.055 [PollingServerListUpdater-0] INFO  c.n.c.ChainedDynamicProperty - [checkAndFlip,115] - Flipping property: taiji-system.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+13:42:28.093 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9203,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-job\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617687740505,\"checksum\":\"6520079c412785820188d5c23cd13b53\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"metadata\":{}}","lastRefTime":18667572370153} from /192.168.1.102
+14:00:21.527 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9201,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-system\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-system\",\"name\":\"DEFAULT_GROUP@@taiji-system\",\"cacheMillis\":10000,\"lastRefTime\":1617688821525,\"checksum\":\"51f5d200922336e034539119e6f56b20\",\"useSpecifiedURL\":false,\"clusters\":\"\",\"env\":\"\",\"metadata\":{}}","lastRefTime":19748592718822} from /192.168.1.102
+14:00:36.903 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"dom\":\"DEFAULT_GROUP@@taiji-system\",\"name\":\"DEFAULT_GROUP@@taiji-system\",\"cacheMillis\":10000,\"lastRefTime\":1617688836902,\"checksum\":\"2fcfc049ea15b23df92e9afa370071c2\",\"useSpecifiedURL\":false,\"clusters\":\"\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":19763969296847} from /192.168.1.102
+14:00:36.904 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,234] - removed ips(1) service: DEFAULT_GROUP@@taiji-system -> [{"instanceId":"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system","ip":"192.168.1.102","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+14:00:36.909 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(0) service: DEFAULT_GROUP@@taiji-system -> []
+14:00:44.334 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-system -> [{"instanceId":"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system","ip":"192.168.1.102","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+14:00:44.336 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-system -> [{"instanceId":"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system","ip":"192.168.1.102","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+14:00:44.986 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9201,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9201#DEFAULT#DEFAULT_GROUP@@taiji-system\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-system\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-system\",\"name\":\"DEFAULT_GROUP@@taiji-system\",\"cacheMillis\":10000,\"lastRefTime\":1617688844985,\"checksum\":\"51f5d200922336e034539119e6f56b20\",\"useSpecifiedURL\":false,\"clusters\":\"\",\"env\":\"\",\"metadata\":{}}","lastRefTime":19772052129426} from /192.168.1.102
+16:00:52.078 [Thread-82] INFO  c.n.l.PollingServerListUpdater - [run,53] - Shutting down the Executor Pool for PollingServerListUpdater
+16:00:52.133 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617687546139 paused.
+16:00:53.506 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,90] - De-registering from Nacos Server now...
+16:00:53.507 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [removeBeatInfo,101] - [BEAT] removing beat: DEFAULT_GROUP@@taiji-job:192.168.1.102:9203 from beat map.
+16:00:53.508 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [deregisterService,260] - [DEREGISTER-SERVICE] public deregistering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+16:00:53.509 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,110] - De-registration finished.
+16:00:53.512 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+16:00:54.513 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617696054510,\"checksum\":\"ae9cd60d738df6d8ea5bd93ccb6b2c48\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":26981577665548} from /192.168.1.102
+16:00:54.514 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,234] - removed ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]
+16:00:54.519 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(0) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> []
+16:00:56.514 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+16:00:56.514 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,409] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+16:00:56.940 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,121] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+16:00:59.944 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,125] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+16:00:59.944 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+16:00:59.946 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+16:00:59.947 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,414] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+16:00:59.947 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+16:00:59.949 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialWatcher - [stop,105] - [null] CredentialWatcher is stopped
+16:00:59.950 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialService - [free,98] - [null] CredentialService is freed
+16:00:59.950 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+16:01:00.123 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler taijiScheduler_$_XieWenHui1617687546139 shutting down.
+16:01:00.123 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617687546139 paused.
+16:01:00.125 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler taijiScheduler_$_XieWenHui1617687546139 shutdown complete.
+16:01:00.126 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+16:01:00.135 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+16:01:53.846 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+16:01:55.654 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+16:01:55.716 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+16:01:55.776 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+16:01:55.812 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:01:59.659 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+16:01:59.660 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:01:59.660 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:01:59.932 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:02:00.490 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+16:02:00.513 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+16:02:00.513 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+16:02:00.525 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:02:00.809 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:02:00.826 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617696120495'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+16:02:00.826 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+16:02:00.827 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+16:02:00.830 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5dce5c03
+16:02:02.027 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+16:02:03.637 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+16:02:03.638 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+16:02:03.639 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+16:02:04.125 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:02:04.193 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:02:04.200 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:02:07.405 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9203"]
+16:02:07.454 [main] INFO  c.a.n.client.naming - [addBeatInfo,81] - [BEAT] adding beat: BeatInfo{port=9203, ip='192.168.1.102', weight=1.0, serviceName='DEFAULT_GROUP@@taiji-job', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+16:02:07.455 [main] INFO  c.a.n.client.naming - [registerService,230] - [REGISTER-SERVICE] public registering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+16:02:07.460 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP taiji-job 192.168.1.102:9203 register finished
+16:02:08.425 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+16:02:08.435 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+16:02:08.460 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9203,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-job\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617696128459,\"checksum\":\"6520079c412785820188d5c23cd13b53\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"metadata\":{}}","lastRefTime":27055526640347} from /192.168.1.102
+16:02:08.753 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+16:02:08.779 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+16:02:08.859 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:02:09.098 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: exportUsingPOST_1
+16:02:09.100 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: getInfoUsingGET_1
+16:02:09.103 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: listUsingGET_1
+16:02:09.105 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+16:02:09.137 [main] INFO  c.t.j.TaiJiJobApplication - [logStarted,61] - Started TaiJiJobApplication in 16.971 seconds (JVM running for 19.274)
+16:02:09.146 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job+DEFAULT_GROUP
+16:02:09.147 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job, group=DEFAULT_GROUP, cnt=1
+16:02:09.148 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job.yml+DEFAULT_GROUP
+16:02:09.148 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job.yml, group=DEFAULT_GROUP, cnt=1
+16:02:09.150 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job-dev.yml+DEFAULT_GROUP
+16:02:09.151 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job-dev.yml, group=DEFAULT_GROUP, cnt=1
+16:02:10.139 [Quartz Scheduler [taijiScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler taijiScheduler_$_XieWenHui1617696120495 started.
+16:02:10.288 [RMI TCP Connection(2)-192.168.1.102] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:02:24.526 [main] INFO  c.t.j.util.HttpUtils - [httpCilentPost,61] - 响应ContentType为:Content-Type: text/xml; charset=utf-8
+16:02:24.532 [main] INFO  c.t.j.util.HttpUtils - [httpCilentPost,62] - 响应状态为:HTTP/1.1 500 Internal Server Error
+16:02:24.536 [main] INFO  c.t.j.util.HttpUtils - [httpCilentPost,66] - 响应内容为:<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>服务器未能识别 HTTP 头 SOAPAction 的值: http://tempuri.org/Request。</faultstring><detail /></soap:Fault></soap:Body></soap:Envelope>
+16:04:19.884 [main] INFO  c.t.j.util.HttpUtils - [httpCilentPost,61] - 响应ContentType为:Content-Type: text/xml; charset=utf-8
+16:04:19.891 [main] INFO  c.t.j.util.HttpUtils - [httpCilentPost,62] - 响应状态为:HTTP/1.1 500 Internal Server Error
+16:04:19.897 [main] INFO  c.t.j.util.HttpUtils - [httpCilentPost,66] - 响应内容为:<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>服务器未能识别 HTTP 头 SOAPAction 的值: application/soap xml;charset=UTF-8。</faultstring><detail /></soap:Fault></soap:Body></soap:Envelope>
+16:04:36.911 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617696120495 paused.
+16:04:37.965 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,90] - De-registering from Nacos Server now...
+16:04:37.966 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [removeBeatInfo,101] - [BEAT] removing beat: DEFAULT_GROUP@@taiji-job:192.168.1.102:9203 from beat map.
+16:04:37.966 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [deregisterService,260] - [DEREGISTER-SERVICE] public deregistering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+16:04:37.968 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,110] - De-registration finished.
+16:04:37.969 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+16:04:38.488 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,234] - removed ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+16:04:38.491 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(0) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> []
+16:04:38.968 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617696278968,\"checksum\":\"ae9cd60d738df6d8ea5bd93ccb6b2c48\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":27206035232737} from /192.168.1.102
+16:04:40.972 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+16:04:40.973 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,409] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+16:04:43.976 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,121] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+16:04:46.978 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,125] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+16:04:46.981 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+16:04:46.982 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+16:04:46.982 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,414] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+16:04:46.982 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+16:04:46.984 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialWatcher - [stop,105] - [null] CredentialWatcher is stopped
+16:04:46.984 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialService - [free,98] - [null] CredentialService is freed
+16:04:46.984 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+16:04:47.114 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler taijiScheduler_$_XieWenHui1617696120495 shutting down.
+16:04:47.115 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617696120495 paused.
+16:04:47.116 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler taijiScheduler_$_XieWenHui1617696120495 shutdown complete.
+16:04:47.116 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+16:04:47.128 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+16:04:53.299 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+16:04:55.012 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+16:04:55.059 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+16:04:55.094 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+16:04:55.121 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:04:58.707 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+16:04:58.707 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:04:58.708 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:04:58.965 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:04:59.483 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+16:04:59.506 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+16:04:59.506 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+16:04:59.517 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:04:59.753 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:04:59.768 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617696299487'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+16:04:59.768 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+16:04:59.769 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+16:04:59.771 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2fea9a7b
+16:05:00.785 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+16:05:02.225 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+16:05:02.227 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+16:05:02.229 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+16:05:02.682 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:05:02.742 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:05:02.748 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:05:05.417 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9203"]
+16:05:05.466 [main] INFO  c.a.n.client.naming - [addBeatInfo,81] - [BEAT] adding beat: BeatInfo{port=9203, ip='192.168.1.102', weight=1.0, serviceName='DEFAULT_GROUP@@taiji-job', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+16:05:05.467 [main] INFO  c.a.n.client.naming - [registerService,230] - [REGISTER-SERVICE] public registering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+16:05:05.471 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP taiji-job 192.168.1.102:9203 register finished
+16:05:06.435 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000}]
+16:05:06.443 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000}]
+16:05:06.472 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9203,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-job\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617696306472,\"checksum\":\"6520079c412785820188d5c23cd13b53\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"metadata\":{}}","lastRefTime":27233539016933} from /192.168.1.102
+16:05:06.485 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+16:05:06.501 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+16:05:06.565 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:05:06.762 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: exportUsingPOST_1
+16:05:06.764 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: getInfoUsingGET_1
+16:05:06.767 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: listUsingGET_1
+16:05:06.768 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+16:05:06.798 [main] INFO  c.t.j.TaiJiJobApplication - [logStarted,61] - Started TaiJiJobApplication in 15.159 seconds (JVM running for 17.353)
+16:05:06.807 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job+DEFAULT_GROUP
+16:05:06.809 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job, group=DEFAULT_GROUP, cnt=1
+16:05:06.809 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job.yml+DEFAULT_GROUP
+16:05:06.809 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job.yml, group=DEFAULT_GROUP, cnt=1
+16:05:06.811 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job-dev.yml+DEFAULT_GROUP
+16:05:06.811 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job-dev.yml, group=DEFAULT_GROUP, cnt=1
+16:05:07.800 [Quartz Scheduler [taijiScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler taijiScheduler_$_XieWenHui1617696299487 started.
+16:05:09.722 [RMI TCP Connection(3)-192.168.1.102] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:06:40.742 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617696299487 paused.
+16:06:41.968 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,90] - De-registering from Nacos Server now...
+16:06:41.968 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [removeBeatInfo,101] - [BEAT] removing beat: DEFAULT_GROUP@@taiji-job:192.168.1.102:9203 from beat map.
+16:06:41.968 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [deregisterService,260] - [DEREGISTER-SERVICE] public deregistering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+16:06:41.970 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,110] - De-registration finished.
+16:06:41.971 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+16:06:42.971 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617696402970,\"checksum\":\"ae9cd60d738df6d8ea5bd93ccb6b2c48\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":27330037767568} from /192.168.1.102
+16:06:42.972 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,234] - removed ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000}]
+16:06:42.977 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(0) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> []
+16:06:44.973 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+16:06:44.974 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,409] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+16:06:46.472 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,121] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+16:06:49.474 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,125] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+16:06:49.475 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+16:06:49.476 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+16:06:49.476 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,414] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+16:06:49.477 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+16:06:49.479 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialWatcher - [stop,105] - [null] CredentialWatcher is stopped
+16:06:49.480 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialService - [free,98] - [null] CredentialService is freed
+16:06:49.481 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+16:06:49.632 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler taijiScheduler_$_XieWenHui1617696299487 shutting down.
+16:06:49.632 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler taijiScheduler_$_XieWenHui1617696299487 paused.
+16:06:49.634 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler taijiScheduler_$_XieWenHui1617696299487 shutdown complete.
+16:06:49.635 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+16:06:49.656 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+16:06:55.940 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+16:06:57.522 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+16:06:57.564 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+16:06:57.598 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+16:06:57.625 [main] INFO  c.t.j.TaiJiJobApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:07:00.920 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9203"]
+16:07:00.921 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:07:00.921 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:07:01.167 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:07:01.666 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+16:07:01.685 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+16:07:01.685 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+16:07:01.696 [main] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:07:01.939 [main] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:07:01.958 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'taijiScheduler' with instanceId 'XieWenHui1617696421670'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+16:07:01.958 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'taijiScheduler' initialized from an externally provided properties instance.
+16:07:01.959 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+16:07:01.961 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@252d8df6
+16:07:03.046 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+16:07:04.733 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+16:07:04.734 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+16:07:04.736 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+16:07:05.217 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:07:05.277 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:07:05.283 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+16:07:07.977 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9203"]
+16:07:08.021 [main] INFO  c.a.n.client.naming - [addBeatInfo,81] - [BEAT] adding beat: BeatInfo{port=9203, ip='192.168.1.102', weight=1.0, serviceName='DEFAULT_GROUP@@taiji-job', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+16:07:08.023 [main] INFO  c.a.n.client.naming - [registerService,230] - [REGISTER-SERVICE] public registering service DEFAULT_GROUP@@taiji-job with instance: Instance{instanceId='null', ip='192.168.1.102', port=9203, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+16:07:08.028 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP taiji-job 192.168.1.102:9203 register finished
+16:07:08.997 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]
+16:07:09.005 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-job@@DEFAULT -> [{"instanceId":"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job","ip":"192.168.1.102","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]
+16:07:09.029 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"192.168.1.102\",\"port\":9203,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"192.168.1.102#9203#DEFAULT#DEFAULT_GROUP@@taiji-job\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-job\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-job\",\"name\":\"DEFAULT_GROUP@@taiji-job\",\"cacheMillis\":10000,\"lastRefTime\":1617696429028,\"checksum\":\"6520079c412785820188d5c23cd13b53\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"metadata\":{}}","lastRefTime":27356095499443} from /192.168.1.102
+16:07:09.171 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+16:07:09.195 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+16:07:09.268 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:07:09.466 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: exportUsingPOST_1
+16:07:09.468 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: getInfoUsingGET_1
+16:07:09.471 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: listUsingGET_1
+16:07:09.473 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+16:07:09.506 [main] INFO  c.t.j.TaiJiJobApplication - [logStarted,61] - Started TaiJiJobApplication in 15.157 seconds (JVM running for 17.146)
+16:07:09.516 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job+DEFAULT_GROUP
+16:07:09.518 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job, group=DEFAULT_GROUP, cnt=1
+16:07:09.518 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job.yml+DEFAULT_GROUP
+16:07:09.518 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job.yml, group=DEFAULT_GROUP, cnt=1
+16:07:09.520 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-job-dev.yml+DEFAULT_GROUP
+16:07:09.520 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-job-dev.yml, group=DEFAULT_GROUP, cnt=1
+16:07:10.508 [Quartz Scheduler [taijiScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler taijiScheduler_$_XieWenHui1617696421670 started.
+16:07:12.364 [RMI TCP Connection(3)-192.168.1.102] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'

@@ -1,0 +1,227 @@
+19:02:15.998 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:02:17.589 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:02:17.636 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:02:17.671 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:02:17.692 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:02:20.079 [main] INFO  i.s.s.b.a.SeataAutoConfiguration - [globalTransactionScanner,65] - Automatically configure Seata
+19:02:20.132 [main] INFO  i.s.c.ConfigurationFactory - [<clinit>,65] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:02:20.146 [main] INFO  i.s.c.ConfigurationFactory - [buildConfiguration,123] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:02:20.221 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,164] - Initializing Global Transaction Clients ... 
+19:02:20.332 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:02:20.332 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,172] - Transaction Manager Client is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:02:20.347 [main] INFO  i.s.r.d.AsyncWorker - [init,125] - Async Commit Buffer Limit: 10000
+19:02:20.348 [main] INFO  i.s.r.d.x.ResourceManagerXA - [init,40] - ResourceManagerXA init ...
+19:02:20.358 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:02:20.358 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,177] - Resource Manager is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:02:20.358 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,181] - Global Transaction Clients are initialized. 
+19:02:21.323 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:02:21.324 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:02:21.325 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:02:21.512 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:02:22.382 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:02:23.620 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:02:23.620 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:02:23.621 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:02:23.730 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+19:03:48.722 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:03:50.203 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:03:50.245 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:03:50.276 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:03:50.296 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:03:52.710 [main] INFO  i.s.s.b.a.SeataAutoConfiguration - [globalTransactionScanner,65] - Automatically configure Seata
+19:03:52.764 [main] INFO  i.s.c.ConfigurationFactory - [<clinit>,65] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:03:52.776 [main] INFO  i.s.c.ConfigurationFactory - [buildConfiguration,123] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:03:52.874 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,164] - Initializing Global Transaction Clients ... 
+19:03:52.999 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:03:52.999 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,172] - Transaction Manager Client is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:03:53.016 [main] INFO  i.s.r.d.AsyncWorker - [init,125] - Async Commit Buffer Limit: 10000
+19:03:53.017 [main] INFO  i.s.r.d.x.ResourceManagerXA - [init,40] - ResourceManagerXA init ...
+19:03:53.028 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:03:53.028 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,177] - Resource Manager is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:03:53.028 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,181] - Global Transaction Clients are initialized. 
+19:03:54.097 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:03:54.098 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:03:54.098 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:03:54.305 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:03:55.178 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:03:56.436 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:03:56.437 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:03:56.438 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:03:56.623 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+19:05:08.871 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:05:10.290 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:05:10.329 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:05:10.359 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:05:10.380 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:05:12.843 [main] INFO  i.s.s.b.a.SeataAutoConfiguration - [globalTransactionScanner,65] - Automatically configure Seata
+19:05:12.895 [main] INFO  i.s.c.ConfigurationFactory - [<clinit>,65] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:05:12.909 [main] INFO  i.s.c.ConfigurationFactory - [buildConfiguration,123] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:05:12.982 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,164] - Initializing Global Transaction Clients ... 
+19:05:13.084 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:05:13.084 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,172] - Transaction Manager Client is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:05:13.098 [main] INFO  i.s.r.d.AsyncWorker - [init,125] - Async Commit Buffer Limit: 10000
+19:05:13.099 [main] INFO  i.s.r.d.x.ResourceManagerXA - [init,40] - ResourceManagerXA init ...
+19:05:13.109 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:05:13.109 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,177] - Resource Manager is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:05:13.109 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,181] - Global Transaction Clients are initialized. 
+19:05:14.062 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:05:14.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:05:14.063 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:05:14.262 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:05:15.069 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:05:16.386 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:05:16.387 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:05:16.388 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:05:16.599 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+19:09:57.552 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:09:59.137 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:09:59.175 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:09:59.210 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:09:59.236 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:10:01.635 [main] INFO  i.s.s.b.a.SeataAutoConfiguration - [globalTransactionScanner,65] - Automatically configure Seata
+19:10:01.687 [main] INFO  i.s.c.ConfigurationFactory - [<clinit>,65] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:10:01.700 [main] INFO  i.s.c.ConfigurationFactory - [buildConfiguration,123] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:10:01.773 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,164] - Initializing Global Transaction Clients ... 
+19:10:01.878 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:10:01.879 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,172] - Transaction Manager Client is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:10:01.893 [main] INFO  i.s.r.d.AsyncWorker - [init,125] - Async Commit Buffer Limit: 10000
+19:10:01.894 [main] INFO  i.s.r.d.x.ResourceManagerXA - [init,40] - ResourceManagerXA init ...
+19:10:01.903 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:10:01.903 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,177] - Resource Manager is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:10:01.903 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,181] - Global Transaction Clients are initialized. 
+19:10:02.885 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:10:02.886 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:10:02.886 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:10:03.088 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:10:03.865 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:10:05.011 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:10:05.012 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:10:05.013 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:10:05.119 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+19:12:50.528 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:12:52.120 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:12:52.161 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:12:52.192 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:12:52.215 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:12:54.646 [main] INFO  i.s.s.b.a.SeataAutoConfiguration - [globalTransactionScanner,65] - Automatically configure Seata
+19:12:54.700 [main] INFO  i.s.c.ConfigurationFactory - [<clinit>,65] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:12:54.714 [main] INFO  i.s.c.ConfigurationFactory - [buildConfiguration,123] - load Configuration:FileConfiguration$$EnhancerByCGLIB$$862af1eb
+19:12:54.791 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,164] - Initializing Global Transaction Clients ... 
+19:12:54.901 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:12:54.902 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,172] - Transaction Manager Client is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:12:54.917 [main] INFO  i.s.r.d.AsyncWorker - [init,125] - Async Commit Buffer Limit: 10000
+19:12:54.918 [main] INFO  i.s.r.d.x.ResourceManagerXA - [init,40] - ResourceManagerXA init ...
+19:12:54.927 [main] INFO  i.s.c.r.n.NettyClientBootstrap - [start,147] - NettyClientBootstrap has started
+19:12:54.927 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,177] - Resource Manager is initialized. applicationId[taiji-sso] txServiceGroup[taiji-sso-seata-service-group]
+19:12:54.927 [main] INFO  i.s.s.a.GlobalTransactionScanner - [initClient,181] - Global Transaction Clients are initialized. 
+19:12:55.880 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:12:55.881 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:12:55.881 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:12:56.122 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:12:57.007 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:12:58.469 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:12:58.470 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:12:58.471 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:12:58.578 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+19:20:53.264 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:20:54.750 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:20:54.795 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:20:54.862 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:20:54.898 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:20:58.499 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:20:58.501 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:20:58.501 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:20:58.703 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:20:59.602 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:21:00.930 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:21:00.931 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:21:00.933 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:21:01.391 [main] INFO  c.a.d.p.DruidDataSource - [init,985] - {dataSource-1,master} inited
+19:21:01.392 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,132] - dynamic-datasource - load a datasource named [master] success
+19:21:01.393 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,237] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+19:21:01.820 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+19:21:01.889 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+19:21:01.895 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+19:21:04.715 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9201"]
+19:21:04.765 [main] INFO  c.a.n.client.naming - [addBeatInfo,81] - [BEAT] adding beat: BeatInfo{port=9201, ip='10.15.96.63', weight=1.0, serviceName='DEFAULT_GROUP@@taiji-sso', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+19:21:04.768 [main] INFO  c.a.n.client.naming - [registerService,230] - [REGISTER-SERVICE] public registering service DEFAULT_GROUP@@taiji-sso with instance: Instance{instanceId='null', ip='10.15.96.63', port=9201, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+19:21:04.787 [main] INFO  c.a.n.client.naming - [shutdown,147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+19:21:07.789 [main] INFO  c.a.n.client.naming - [shutdown,149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+19:21:07.789 [main] INFO  c.a.n.client.naming - [shutdown,409] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+19:21:10.792 [main] INFO  c.a.n.client.naming - [shutdown,121] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+19:21:13.794 [main] INFO  c.a.n.client.naming - [shutdown,125] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+19:21:13.794 [main] INFO  c.a.n.client.naming - [shutdown,132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+19:21:13.795 [main] INFO  c.a.n.client.naming - [shutdown,134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+19:21:13.795 [main] INFO  c.a.n.client.naming - [shutdown,414] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+19:21:13.795 [main] INFO  c.a.n.client.naming - [shutdown,719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+19:21:13.796 [main] INFO  c.a.n.c.i.CredentialWatcher - [stop,105] - [null] CredentialWatcher is stopped
+19:21:13.797 [main] INFO  c.a.n.c.i.CredentialService - [free,98] - [null] CredentialService is freed
+19:21:13.797 [main] INFO  c.a.n.client.naming - [shutdown,723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+19:21:13.798 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+19:21:13.803 [main] INFO  c.a.d.p.DruidDataSource - [close,2032] - {dataSource-1} closing ...
+19:21:13.810 [main] INFO  c.a.d.p.DruidDataSource - [close,2104] - {dataSource-1} closed
+19:21:13.811 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
+19:21:14.414 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-9201"]
+19:21:14.414 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+19:21:14.420 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-9201"]
+19:21:14.423 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-9201"]
+19:22:38.300 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.1.6.Final
+19:22:39.625 [main] INFO  c.a.n.c.c.i.LocalConfigInfoProcessor - [<clinit>,212] - LOCAL_SNAPSHOT_PATH:C:\Users\谢文辉\nacos\config
+19:22:39.665 [main] INFO  c.a.n.c.c.i.Limiter - [<clinit>,54] - limitTime:5.0
+19:22:39.955 [main] INFO  c.a.n.c.c.u.JvmUtil - [<clinit>,49] - isMultiInstance:false
+19:22:39.996 [main] INFO  c.t.s.TaiJiSsoApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+19:22:43.270 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9201"]
+19:22:43.271 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+19:22:43.271 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+19:22:43.465 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+19:22:44.275 [main] INFO  c.a.c.s.SentinelWebAutoConfiguration - [addInterceptors,80] - [Sentinel Starter] register SentinelWebInterceptor with urlPatterns: [/**].
+19:22:45.420 [main] INFO  c.a.n.client.naming - [call,65] - initializer namespace from System Property :null
+19:22:45.421 [main] INFO  c.a.n.client.naming - [call,74] - initializer namespace from System Environment :null
+19:22:45.422 [main] INFO  c.a.n.client.naming - [call,84] - initializer namespace from System Property :null
+19:22:45.826 [main] INFO  c.a.d.p.DruidDataSource - [init,985] - {dataSource-1,master} inited
+19:22:45.828 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [addDataSource,132] - dynamic-datasource - load a datasource named [master] success
+19:22:45.829 [main] INFO  c.b.d.d.DynamicRoutingDataSource - [afterPropertiesSet,237] - dynamic-datasource initial loaded [1] datasource,primary datasource named [master]
+19:22:46.211 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+19:22:46.271 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+19:22:46.277 [main] INFO  c.n.c.s.URLConfigurationSource - [<init>,122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+19:22:48.977 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9201"]
+19:22:49.020 [main] INFO  c.a.n.client.naming - [addBeatInfo,81] - [BEAT] adding beat: BeatInfo{port=9201, ip='10.15.96.63', weight=1.0, serviceName='DEFAULT_GROUP@@taiji-sso', cluster='DEFAULT', metadata={preserved.register.source=SPRING_CLOUD}, scheduled=false, period=5000, stopped=false} to beat map.
+19:22:49.021 [main] INFO  c.a.n.client.naming - [registerService,230] - [REGISTER-SERVICE] public registering service DEFAULT_GROUP@@taiji-sso with instance: Instance{instanceId='null', ip='10.15.96.63', port=9201, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={preserved.register.source=SPRING_CLOUD}}
+19:22:49.295 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP taiji-sso 10.15.96.63:9201 register finished
+19:22:50.013 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,228] - new ips(1) service: DEFAULT_GROUP@@taiji-sso@@DEFAULT -> [{"instanceId":"10.15.96.63#9201#DEFAULT#DEFAULT_GROUP@@taiji-sso","ip":"10.15.96.63","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-sso","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]
+19:22:50.022 [com.alibaba.nacos.client.naming.updater] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(1) service: DEFAULT_GROUP@@taiji-sso@@DEFAULT -> [{"instanceId":"10.15.96.63#9201#DEFAULT#DEFAULT_GROUP@@taiji-sso","ip":"10.15.96.63","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-sso","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]
+19:22:50.110 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+19:22:50.126 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+19:22:50.185 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+19:22:50.221 [main] INFO  c.t.s.TaiJiSsoApplication - [logStarted,61] - Started TaiJiSsoApplication in 13.136 seconds (JVM running for 14.776)
+19:22:50.230 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-sso.yml+DEFAULT_GROUP
+19:22:50.232 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-sso.yml, group=DEFAULT_GROUP, cnt=1
+19:22:50.232 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-sso+DEFAULT_GROUP
+19:22:50.232 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-sso, group=DEFAULT_GROUP, cnt=1
+19:22:50.233 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,239] - [fixed-127.0.0.1_8848] [subscribe] taiji-sso-dev.yml+DEFAULT_GROUP
+19:22:50.234 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,93] - [fixed-127.0.0.1_8848] [add-listener] ok, tenant=, dataId=taiji-sso-dev.yml, group=DEFAULT_GROUP, cnt=1
+19:22:50.335 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"hosts\":[{\"ip\":\"10.15.96.63\",\"port\":9201,\"valid\":true,\"healthy\":true,\"marked\":false,\"instanceId\":\"10.15.96.63#9201#DEFAULT#DEFAULT_GROUP@@taiji-sso\",\"metadata\":{\"preserved.register.source\":\"SPRING_CLOUD\"},\"enabled\":true,\"weight\":1.0,\"clusterName\":\"DEFAULT\",\"serviceName\":\"DEFAULT_GROUP@@taiji-sso\",\"ephemeral\":true}],\"dom\":\"DEFAULT_GROUP@@taiji-sso\",\"name\":\"DEFAULT_GROUP@@taiji-sso\",\"cacheMillis\":10000,\"lastRefTime\":1617276170317,\"checksum\":\"986f36e410bca7b44f2080a004c09583\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"metadata\":{}}","lastRefTime":37935384084449} from /10.15.96.63
+19:22:50.912 [RMI TCP Connection(1)-10.15.96.63] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:25:07.791 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,90] - De-registering from Nacos Server now...
+19:25:07.791 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [removeBeatInfo,101] - [BEAT] removing beat: DEFAULT_GROUP@@taiji-sso:10.15.96.63:9201 from beat map.
+19:25:07.791 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [deregisterService,260] - [DEREGISTER-SERVICE] public deregistering service DEFAULT_GROUP@@taiji-sso with instance: Instance{instanceId='null', ip='10.15.96.63', port=9201, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='DEFAULT', serviceName='null', metadata={}}
+19:25:07.794 [SpringContextShutdownHook] INFO  c.a.c.n.r.NacosServiceRegistry - [deregister,110] - De-registration finished.
+19:25:07.795 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+19:25:08.795 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [run,86] - received push data: {"type":"dom","data":"{\"dom\":\"DEFAULT_GROUP@@taiji-sso\",\"name\":\"DEFAULT_GROUP@@taiji-sso\",\"cacheMillis\":10000,\"lastRefTime\":1617276308795,\"checksum\":\"1a8891ad12c66cf5d8b7f304dcd0c065\",\"useSpecifiedURL\":false,\"clusters\":\"DEFAULT\",\"env\":\"\",\"hosts\":[],\"metadata\":{}}","lastRefTime":38073862231081} from /10.15.96.63
+19:25:08.797 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,234] - removed ips(1) service: DEFAULT_GROUP@@taiji-sso@@DEFAULT -> [{"instanceId":"10.15.96.63#9201#DEFAULT#DEFAULT_GROUP@@taiji-sso","ip":"10.15.96.63","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@taiji-sso","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}]
+19:25:08.799 [com.alibaba.nacos.naming.push.receiver] INFO  c.a.n.client.naming - [processServiceJson,267] - current ips:(0) service: DEFAULT_GROUP@@taiji-sso@@DEFAULT -> []
+19:25:09.215 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+19:25:09.215 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,409] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+19:25:10.123 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,121] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+19:25:13.126 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,125] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+19:25:13.126 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+19:25:13.127 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+19:25:13.128 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,414] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+19:25:13.128 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+19:25:13.130 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialWatcher - [stop,105] - [null] CredentialWatcher is stopped
+19:25:13.131 [SpringContextShutdownHook] INFO  c.a.n.c.i.CredentialService - [free,98] - [null] CredentialService is freed
+19:25:13.131 [SpringContextShutdownHook] INFO  c.a.n.client.naming - [shutdown,723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+19:25:13.140 [SpringContextShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,217] - dynamic-datasource start closing ....
+19:25:13.151 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2032] - {dataSource-1} closing ...
+19:25:13.166 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2104] - {dataSource-1} closed
+19:25:13.166 [SpringContextShutdownHook] INFO  c.b.d.d.DynamicRoutingDataSource - [destroy,221] - dynamic-datasource all closed success,bye
